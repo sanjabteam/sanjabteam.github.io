@@ -1,11 +1,11 @@
 # Sanjab
 Sanjab is an admin package for laravel.
 
-Currenly sanjab is on beta version and development to be a ready to use kit. so  **I DO NOT RECOMMEND** to use it on real world project for NOW.
+Currently sanjab is on beta version and development to be ready to use kit. so  **I DO NOT RECOMMEND** to use it on real-world project for NOW.
 
 [Installation](./install.md)
 
-## Quick start
+## Quickstart
 Use
 ```bash
 php artisan sanjab:make:sanjab TestController
@@ -30,8 +30,8 @@ Use
 php artisan sanjab:make:setting TestSettingController
 ```
 So you have a setting controller.
-setting controllers also have widgets but without table.
-you can access setting value with `setting` function.
+setting controllers also have widgets but without the table.
+you can access the setting value with `setting` function.
 
 ```php
 setting('group.fieldName')
