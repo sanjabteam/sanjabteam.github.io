@@ -20,7 +20,7 @@ each controller consist of table columns and input fields.
 we call them widgets.
 very basic widget is `Sanjab\Widgets\TextWidget` and you can add text fields like this in init function.
 ```php
-$this->widgets[] = TextWidget('fieldName', 'Field placeholder')->rules('required|string|max:50')
+$this->widgets[] = TextWidget::create('fieldName', 'Field placeholder')->rules('required|string|max:50')
 ```
 
 You need also set properties in `properties` function.
