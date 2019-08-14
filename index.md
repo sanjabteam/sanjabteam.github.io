@@ -5,6 +5,8 @@ Currently sanjab is on beta version and development to be ready to use kit. so  
 
 [Installation](./install.md)
 [Crud Controllers](./crud.md)
+[Setting Controllers](./setting.md)
+[Widgets](./widgets.md)
 
 ## Quickstart
 Use
