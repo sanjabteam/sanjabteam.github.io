@@ -223,6 +223,10 @@ $this->widgets[] = TextWidget::create('name')
 * [NumberWidget](./widgets/number.md)
 * [MapWidget](./widgets/map.md)
 * [ItemListWidget](./widgets/item-list.md)
+* [IdWidget](./widgets/id.md)
+* [FontAwesomeWidget](./widgets/fontawesome.md)
+* [CheckboxWidget](./widgets/checkbox.md)
+* [CheckboxWidgetGroup](./widgets/checkbox-group.md)
 
 ## Extending widgets
 Comming soon...

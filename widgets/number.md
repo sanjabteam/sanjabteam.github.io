@@ -12,6 +12,13 @@ $this->widgets[] = NumberWidget::create('age', 'Your age')
                             ->max(120);
 ```
 
+You also should define `$casts` in you'r model.
+```php
+protected $casts = [
+    'age' => 'int'
+];
+```
+
 ## Properties
 
 ### min
