@@ -10,7 +10,7 @@ $curl = curl_init();
 $config = require_once "config.php";
 
 curl_setopt_array($curl, array(
-    CURLOPT_URL => "https://api.unsplash.com/users/amir9480/likes",
+    CURLOPT_URL => "https://api.unsplash.com/users/amir9480/likes?per_page=100",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => "",
     CURLOPT_MAXREDIRS => 10,
@@ -37,7 +37,7 @@ if ($err) {
     foreach ($images as $key => $image) {
         $images[$key] = [
             'author' => $image['user']['name'],
-            'link' => $image['links']['html'],
+            'link' => $image['links']['html'].'?'.http_build_query(['utm_source' => 'sanjab', 'utm_medium' => 'referral']),
             'image' => $image['urls']['regular'],
         ];
     }
