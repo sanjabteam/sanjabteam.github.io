@@ -227,6 +227,9 @@ $this->widgets[] = TextWidget::create('name')
 * [FontAwesomeWidget](./widgets/fontawesome.md)
 * [CheckboxWidget](./widgets/checkbox.md)
 * [CheckboxWidgetGroup](./widgets/checkbox-group.md)
+* Wysiwyg editors
+  * [EditorJsWidget](./widgets/editorjs.md)
+  * [QuillWidget](./widgets/quill.md)
 
 ## Extending widgets
 Comming soon...
