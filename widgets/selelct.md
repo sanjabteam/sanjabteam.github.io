@@ -1,3 +1,7 @@
+---
+nav_order: 100
+parent: Widgets
+---
 # Select Widget
 
 A [Vue Select](https://vue-select.org/) input field.

@@ -1,3 +1,7 @@
+---
+nav_order: 100
+parent: Widgets
+---
 # Text Widget
 
 A simple text input.

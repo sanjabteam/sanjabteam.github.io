@@ -1,3 +1,7 @@
+---
+nav_order: 100
+parent: Widgets
+---
 # Checkbox Group Widget
 
 Group of checkboxes that storing as array.

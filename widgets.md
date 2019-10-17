@@ -1,3 +1,8 @@
+---
+nav_order: 100
+has_children: true
+has_toc: false
+---
 # Widgets
 
 - [Widgets](#widgets)
@@ -230,6 +235,9 @@ $this->widgets[] = TextWidget::create('name')
 * Wysiwyg editors
   * [EditorJsWidget](./widgets/editorjs.md)
   * [QuillWidget](./widgets/quill.md)
+* File
+  * [Uppy](./widgets/uppy.md)
+  * [elFinder](./widgets/elfinder.md)
 
 ## Extending widgets
 Comming soon...

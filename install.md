@@ -1,4 +1,7 @@
-# Install sanjab
+---
+nav_order: 10
+---
+# Installation
 
 ## Requirements
 * PHP 7.1.3+

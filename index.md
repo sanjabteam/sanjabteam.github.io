@@ -1,3 +1,6 @@
+---
+nav_order: 1
+---
 # Sanjab
 Sanjab is an admin package for laravel.
 
@@ -11,7 +14,7 @@ Currently sanjab is on beta version and development to be ready to use kit. so  
 ## Quickstart
 Use
 ```bash
-php artisan sanjab:make:sanjab TestController
+php artisan sanjab:make:crud TestController
 ```
 to generate a CRUD controller.
 

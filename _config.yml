@@ -1,3 +1,6 @@
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 title: Sanjab
 description: Laravel admin package
+aux_links:
+  "Github":
+    - "https://github.com/sanjabteam/sanjab"

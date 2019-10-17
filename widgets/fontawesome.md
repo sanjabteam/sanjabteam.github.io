@@ -1,3 +1,7 @@
+---
+nav_order: 100
+parent: Widgets
+---
 # FontAwesome Widget
 
 [Fontawesome](https://fontawesome.com) Icon picker.

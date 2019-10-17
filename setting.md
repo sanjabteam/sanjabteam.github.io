@@ -1,3 +1,6 @@
+---
+nav_order: 100
+---
 # Setting
 
 - [Setting](#setting)

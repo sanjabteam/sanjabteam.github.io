@@ -1,3 +1,7 @@
+---
+nav_order: 100
+parent: Widgets
+---
 # Item List Widget
 
 This widget using to store array of fields.

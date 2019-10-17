@@ -1,1 +1,5 @@
 /unsplash/config.php
+.jekyll-cache
+_site
+.sass-cache
+.jekyll-metadata

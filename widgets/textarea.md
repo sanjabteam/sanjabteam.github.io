@@ -1,3 +1,7 @@
+---
+nav_order: 100
+parent: Widgets
+---
 # Text Area Widget
 
 A simple textarea input.
