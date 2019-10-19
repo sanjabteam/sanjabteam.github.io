@@ -3,6 +3,7 @@ nav_order: 100
 parent: Widgets
 ---
 # Checkbox Group Widget
+![Checkbox group](../images/screenshots/widgets/checkbox_group.jpg)
 
 Group of checkboxes that storing as array.
 

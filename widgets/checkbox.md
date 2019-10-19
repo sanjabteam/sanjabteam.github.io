@@ -3,6 +3,7 @@ nav_order: 100
 parent: Widgets
 ---
 # Checkbox Widget
+![Checkbox widget](../images/screenshots/widgets/checkbox.jpg)
 
 A simple checkbox input.
 

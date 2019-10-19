@@ -3,6 +3,7 @@ nav_order: 100
 parent: Widgets
 ---
 # Text Area Widget
+![Textarea widget](../images/screenshots/widgets/textarea.jpg)
 
 A simple textarea input.
 

@@ -2,6 +2,8 @@
 nav_order: 100
 ---
 # CRUD
+![Crud list](./images/screenshots/crud_list.jpg)
+![Crud form](./images/screenshots/crud_form.jpg)
 
 - [CRUD](#crud)
   - [Example](#example)

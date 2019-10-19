@@ -3,6 +3,7 @@ nav_order: 100
 parent: Widgets
 ---
 # Select Widget
+![Select widget](../images/screenshots/widgets/select.jpg)
 
 A [Vue Select](https://vue-select.org/) input field.
 

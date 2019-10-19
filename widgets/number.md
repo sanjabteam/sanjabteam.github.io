@@ -3,6 +3,7 @@ nav_order: 100
 parent: Widgets
 ---
 # Number Widget
+![Number widget](../images/screenshots/widgets/number.jpg)
 
 A simple number input.
 
@@ -34,3 +35,8 @@ minimum value.
 `type: number`
 
 maximum value.
+
+### step
+`type: number`
+
+prection or each step of number.

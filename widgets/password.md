@@ -3,6 +3,7 @@ nav_order: 100
 parent: Widgets
 ---
 # Password Widget
+![Password widget](../images/screenshots/widgets/password.jpg)
 
 A simple password input.
 

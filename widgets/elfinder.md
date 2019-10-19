@@ -3,6 +3,7 @@ nav_order: 102
 parent: Widgets
 ---
 # Elfinder widget
+![Elfinder widget](../images/screenshots/widgets/elfinder_widget.jpg)
 
 An [elFinder](https://github.com/Studio-42/elFinder) file picker widget.
 

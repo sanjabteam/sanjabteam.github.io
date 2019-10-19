@@ -3,6 +3,7 @@ nav_order: 100
 parent: Widgets
 ---
 # Tag Widget
+![Tag widget](../images/screenshots/widgets/tag.jpg)
 
 Tag input widget.
 

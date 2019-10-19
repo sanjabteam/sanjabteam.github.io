@@ -2,6 +2,7 @@
 nav_order: 100
 ---
 # Setting
+![Settings](./images/screenshots/settings.jpg)
 
 - [Setting](#setting)
   - [Example](#example)

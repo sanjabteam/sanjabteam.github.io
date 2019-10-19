@@ -3,6 +3,7 @@ nav_order: 101
 parent: Widgets
 ---
 # Quill editor widget
+![Quill widget](../images/screenshots/widgets/quill.jpg)
 
 A [Quill](https://github.com/quilljs/quill) wysiwyg input field.
 

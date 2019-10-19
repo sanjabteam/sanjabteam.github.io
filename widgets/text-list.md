@@ -3,6 +3,7 @@ nav_order: 100
 parent: Widgets
 ---
 # Text List Widget
+![Text list widget](../images/screenshots/widgets/text-list.jpg)
 
 List of simple text input.
 

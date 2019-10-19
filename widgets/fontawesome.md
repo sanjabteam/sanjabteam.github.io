@@ -3,6 +3,7 @@ nav_order: 100
 parent: Widgets
 ---
 # FontAwesome Widget
+![Fontawesome widget](../images/screenshots/widgets/fontawesome.jpg)
 
 [Fontawesome](https://fontawesome.com) Icon picker.
 

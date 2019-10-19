@@ -3,6 +3,7 @@ nav_order: 101
 parent: Widgets
 ---
 # Editor.js widget
+![Editor.js widget](../images/screenshots/widgets/editorjs.jpg)
 
 An [Editor.js](https://github.com/codex-team/editor.js) wysiwyg input field.
 

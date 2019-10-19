@@ -3,6 +3,7 @@ nav_order: 102
 parent: Widgets
 ---
 # Uppy widget
+![Uppy widget](../images/screenshots/widgets/uppy.jpg)
 
 An [Uppy](https://github.com/transloadit/uppy) upload box widget.
 

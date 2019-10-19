@@ -3,6 +3,7 @@ nav_order: 100
 parent: Widgets
 ---
 # Item List Widget
+![Item list widget](../images/screenshots/widgets/item-list.jpg)
 
 This widget using to store array of fields.
 

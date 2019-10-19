@@ -2,7 +2,8 @@
 nav_order: 100
 parent: Widgets
 ---
-# Number Widget
+# Map Widget
+![Map widget](../images/screenshots/widgets/map.jpg)
 
 A map marker input.
 
