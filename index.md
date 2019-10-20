@@ -12,6 +12,7 @@ Sanjab is an admin package for laravel.
 * [Setting Controllers](./setting.md)
 * [Widgets](./widgets.md)
 * [Cards](./cards.md)
-*
+
+
 ![Sanjab laravel package](./images/screenshots/screenshot.jpg)
 ![Crud list](./images/screenshots/crud_list.jpg)
